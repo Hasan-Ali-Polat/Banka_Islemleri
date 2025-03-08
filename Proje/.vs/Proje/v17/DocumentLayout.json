@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\vadelihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\vadelihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\bankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\bankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\gelistirici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\gelistirici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|c:\\users\\user\\source\\repos\\proje\\proje\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5AA89-6063-4978-962F-1ACB5C70F989}|Proje\\Proje.csproj|solutionrelative:proje\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VadesizHesap.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\VadesizHesap.cs",
+              "RelativeDocumentMoniker": "Proje\\VadesizHesap.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\VadesizHesap.cs",
+              "RelativeToolTip": "Proje\\VadesizHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:06:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VadeliHesap.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\VadeliHesap.cs",
+              "RelativeDocumentMoniker": "Proje\\VadeliHesap.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\VadeliHesap.cs",
+              "RelativeToolTip": "Proje\\VadeliHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:05:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankaHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\BankaHesabi.cs",
+              "RelativeDocumentMoniker": "Proje\\BankaHesabi.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\BankaHesabi.cs",
+              "RelativeToolTip": "Proje\\BankaHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:05:31.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gelistirici.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Gelistirici.cs",
+              "RelativeDocumentMoniker": "Proje\\Gelistirici.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Gelistirici.cs",
+              "RelativeToolTip": "Proje\\Gelistirici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Yonetici.cs",
+              "RelativeDocumentMoniker": "Proje\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Yonetici.cs",
+              "RelativeToolTip": "Proje\\Yonetici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:02:52.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Calisan.cs",
+              "RelativeDocumentMoniker": "Proje\\Calisan.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Calisan.cs",
+              "RelativeToolTip": "Proje\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:01:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Program.cs",
+              "RelativeDocumentMoniker": "Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje\\Proje\\Program.cs",
+              "RelativeToolTip": "Proje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:01:10.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
